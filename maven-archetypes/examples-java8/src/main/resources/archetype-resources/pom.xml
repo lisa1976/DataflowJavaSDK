@@ -205,7 +205,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>20.0</version>
+      <version>r03</version>
     </dependency>
 
     <!-- Add slf4j API frontend binding with JUL backend -->
